@@ -4,7 +4,7 @@ A command line tool to visualize your [duct](https://github.com/duct-framework/d
 
 ## Usage
 
-Make sure you have [graphviz](http://www.graphviz.org/) installed and download the [latest `duct-system-graph.jar`]()
+Make sure you have [graphviz](http://www.graphviz.org/) installed and download the [latest `duct-system-graph.jar`](https://github.com/jonase/duct-system-graph/releases/download/v.0.1.0/duct-system-graph.jar)
 
 ```
 java -jar duct-system-graph.jar path/to/system.edn | dot -Tsvg -o system.svg
